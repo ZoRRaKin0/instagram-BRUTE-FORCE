@@ -1,4 +1,4 @@
-#coded by ACHERON
+#coded by ZoRRaKin
 proxy = """
 İP ADRESLERİ    PORT   ÜLKE
 167.71.5.83	3128	NL	
