@@ -167,6 +167,7 @@ import random
 import webbrowser
 os.system('pkg install python')
 os.system ('python -m pip install colorama')
+os.system('clear')
 kullanici_adi = str(input("kullanıcı adı giriniz :"))
 kullanici_id = str(input("kullanıcı id giriniz :"))
 onay = str(input("saldırı baslayacak onaylıyormusunuz evet/hayır :"))
